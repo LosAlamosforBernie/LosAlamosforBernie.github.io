@@ -1,0 +1,135 @@
+h1 {
+  text-decoration: none;
+  color: #287DC0;
+  font-weight:normal;
+  font-size: 45pt;
+  font-family: 'Lato', sans-serif;
+  padding-bottom: 0cm;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #FFFFFF;
+}
+
+img {
+  position: relative;
+  top: -55px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+#contact {
+  position: absolute;
+  bottom: 9px;
+  left: 9px;
+  color: #EB524F;
+  font-size: 10pt;
+  font-family: 'Lato', sans-serif;
+}
+
+#disclaimer {
+  position: absolute;
+  bottom: 9px;
+  right: 9px;
+  color: #EB524F;
+  font-size: 10pt;
+  font-family: 'Lato', sans-serif;
+}
+
+#bodyimage {
+  position: relative;
+}
+
+#bernie {
+  text-decoration: none;
+  color: #287DC0;
+  font-weight:normal;
+  font-size: 15pt;
+  font-family: 'Lato', sans-serif;
+}
+
+#voteforbernie {
+  text-decoration: none;
+  color: #287DC0;
+  font-weight:normal;
+  font-size: 15pt;
+  font-family: 'Lato', sans-serif;
+}
+
+#feelthebern {
+  font-family: 'Dosis', sans-serif;
+  color: #287DC0;
+  font-weight:normal;
+  font-size: 15pt;
+}
+
+#menu ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  right: 0;
+  left: 0;
+  overflow: auto;
+  width: 746px;
+  margin: 0 auto;
+}
+
+#menu li {
+  list-style: none;
+  float: left;
+  margin-right: 0.4em;
+}
+
+#menu a {
+  display: block;
+  width: 12em;
+  line-height: 2em;
+  height: 2em;
+  color: white;
+  background-color: #EB524F;
+  text-decoration: none;
+  text-align: center;
+  transition: .3s background-color;
+  border-bottom: 1px solid #FFFFFF;
+  border-top: 1px solid #FFFFFF;
+  border-left: 1px solid #FFFFFF;
+  border-right: 1px solid #FFFFFF;
+}
+
+#menu a:hover {
+  background-color: #FFFFFF;
+  color: black;
+  border-bottom: 1px solid #888;
+  border-top: 1px solid #888;
+  border-left: 1px solid #888;
+  border-right: 1px solid #888;
+}
+
+#moreinfo {
+  text-decoration: none;
+  color: #287DC0;
+  font-weight:normal;
+  font-size: 20pt;
+  font-family: 'Lato', sans-serif;
+  position: relative;
+  top: -20px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+#join {
+  text-decoration: none;
+  color: #287DC0;
+  font-weight:normal;
+  font-size: 20pt;
+  font-family: 'Lato', sans-serif;
+  position: relative;
+  top: 20px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
