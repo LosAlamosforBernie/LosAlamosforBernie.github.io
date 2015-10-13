@@ -25,7 +25,7 @@ img {
   position: absolute;
   bottom: 9px;
   left: 9px;
-  color: #EB524F;
+  color: #000000;
   font-size: 10pt;
   font-family: 'Lato', sans-serif;
 }
@@ -34,7 +34,7 @@ img {
   position: absolute;
   bottom: 9px;
   right: 9px;
-  color: #EB524F;
+  color: #000000;
   font-size: 10pt;
   font-family: 'Lato', sans-serif;
 }
